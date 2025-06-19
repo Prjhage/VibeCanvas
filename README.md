@@ -57,10 +57,15 @@ You can now:
 🚀 Want to Contribute?
 
 🧠 Add new moods
+
 🎨 Design emoji sets
+
 💬 Improve the quote base
+
 💻 Refactor and optimize components
 
 ⭐ Star this project if you like it!
+
 📢 Spread the vibe by sharing it with your friends!
+
 📜 Licensed under MIT
