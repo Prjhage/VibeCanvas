@@ -1,0 +1,52 @@
+{
+    "Happy": [
+        "Happiness is not something ready made. It comes from your own actions. — Dalai Lama",
+        "The purpose of our lives is to be happy. — Dalai Lama",
+        "Do more of what makes you happy.",
+        "Smiles are contagious—spread them generously!",
+        "Happiness depends upon ourselves. — Aristotle",
+        "Choose happiness, not because life is perfect but because you deserve peace.",
+        "Find joy in the little things, for they are the building blocks of happiness.",
+        "Happiness is a journey, not a destination."
+    ],
+    "Sad": [
+        "Tears come from the heart and not from the brain. — Leonardo da Vinci",
+        "It's okay to be sad. It means you care.",
+        "Sadness flies away on the wings of time. — Jean de La Fontaine",
+        "Even the darkest night will end and the sun will rise.",
+        "Sometimes the hardest part isn’t letting go but learning to start over.",
+        "Sadness is but a wall between two gardens. — Khalil Gibran",
+        "Every storm runs out of rain, just like every dark night turns into day.",
+        "Grieve, but don’t let grief win."
+    ],
+    "Motivated": [
+        "Push yourself, because no one else is going to do it for you.",
+        "Don't watch the clock; do what it does. Keep going. — Sam Levenson",
+        "Believe you can and you're halfway there. — Theodore Roosevelt",
+        "Success is not for the lazy.",
+        "Dream it. Wish it. Do it.",
+        "The harder you work for something, the greater you'll feel when you achieve it.",
+        "Don’t stop when you’re tired. Stop when you’re done.",
+        "Success doesn’t come to you, you go to it."
+    ],
+    "Tired": [
+        "Rest if you must, but don’t you quit.",
+        "It's okay to take a break. Even machines need to recharge.",
+        "Breathe. Relax. Reset. You’ve got this.",
+        "Sometimes doing nothing is the best way to reset everything.",
+        "Fatigue makes cowards of us all. — Vince Lombardi",
+        "Your body hears everything your mind says. Stay positive.",
+        "Pause and recharge. Tomorrow is a new chance.",
+        "Even the strongest need rest to rise again."
+    ],
+    "Angry": [
+        "Speak when you are angry and you will make the best speech you will ever regret. — Ambrose Bierce",
+        "Anger is never without a reason, but seldom with a good one. — Benjamin Franklin",
+        "Feel it. Acknowledge it. Then let it go.",
+        "Don't let anger control you—channel it into strength.",
+        "Anger is a short madness. — Horace",
+        "Holding on to anger is like drinking poison and expecting the other person to die.",
+        "When angry, count to ten before you speak. — Thomas Jefferson",
+        "The best fighter is never angry."
+    ]
+}

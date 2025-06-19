@@ -1,0 +1,40 @@
+/* src/components/AudioPlayer.module.css */
+
+.container {
+  margin-top: 2rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+audio {
+  width: 80%;
+  max-width: 500px;
+  min-width: 280px;
+  border-radius: var(--border-radius-md, 8px);
+  box-shadow: var(--box-shadow-light, 0 4px 8px rgba(0, 0, 0, 0.1));
+  height: 50px;
+  display: block;
+  margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+  audio {
+    width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  audio {
+    width: 95%;
+    height: 40px;
+  }
+}
+
+@media (max-width: 320px) {
+  audio {
+    width: 100%;
+    padding: 0 5px;
+    box-sizing: border-box;
+  }
+}

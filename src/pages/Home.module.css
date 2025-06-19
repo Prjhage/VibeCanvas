@@ -1,0 +1,108 @@
+/* src/pages/Home.module.css */
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2rem 1rem;
+  background-size: cover;
+  background-position: center;
+  transition: background-image 0.8s ease-in-out;
+  position: relative;
+  overflow: hidden;
+  color: var(--text-color-dark);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  color: rgb(255, 208, 0);
+  margin-bottom: 2rem;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  font-size: 3rem;
+  /* Base font size for large screens */
+}
+
+/* Responsive adjustments for title */
+
+@media (max-width: 1200px) {
+  .title {
+    font-size: 2.8rem;
+  }
+}
+
+@media (max-width: 992px) {
+  .title {
+    font-size: 2.6rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .title {
+    font-size: 2.2rem;
+    margin-bottom: 1.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .title {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+  }
+}
+
+@media (max-width: 380px) {
+  .title {
+    font-size: 1.8rem;
+    margin-bottom: 1.2rem;
+  }
+}
+
+/* Mood-specific gradient backgrounds */
+
+.happy {
+  background: linear-gradient(to right, #f9d423, #ff4e50);
+  /* yellow to red */
+}
+
+.sad {
+  background: linear-gradient(to right, #4b6cb7, #182848);
+  /* blue shades */
+}
+
+.motivated {
+  background: linear-gradient(to right, #43cea2, #185a9d);
+  /* teal to blue */
+}
+
+.tired {
+  background: linear-gradient(to right, #bdc3c7, #2c3e50);
+  /* grayish fade */
+}
+
+.angry {
+  background: linear-gradient(to right, #ff416c, #ff4b2b);
+  /* pink to red */
+}
+
+/* Responsive adjustments for container padding */
+
+@media (max-width: 768px) {
+  .container {
+    padding: 1.5rem 0.8rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 1rem 0.5rem;
+  }
+}

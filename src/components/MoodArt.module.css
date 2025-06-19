@@ -1,0 +1,69 @@
+/* src/components/MoodArt.module.css */
+
+.artContainer {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  perspective: 1000px;
+}
+
+.art {
+  max-width: 500px;
+  width: 90%;
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--box-shadow-light);
+  transition: transform 0.5s ease-out;
+  display: block;
+  /* Ensures the image behaves as a block element */
+  height: auto;
+  /* Ensures the aspect ratio is maintained */
+}
+
+.art:hover {
+  transform: rotateY(5deg) scale(1.03);
+}
+
+/* Responsive adjustments */
+
+@media (max-width: 1024px) {
+  .art {
+    max-width: 450px;
+    /* Slightly smaller on larger tablets/laptops */
+  }
+}
+
+@media (max-width: 768px) {
+  .art {
+    max-width: 350px;
+  }
+}
+
+@media (max-width: 600px) {
+  .art {
+    max-width: 300px;
+    /* Adjust for smaller tablets and larger phones */
+  }
+}
+
+@media (max-width: 480px) {
+  .art {
+    max-width: 280px;
+    border-radius: var(--border-radius-md);
+  }
+}
+
+@media (max-width: 400px) {
+  .art {
+    max-width: 250px;
+    /* For smaller phones */
+  }
+}
+
+@media (max-width: 320px) {
+  .art {
+    max-width: 200px;
+    /* For very small phones */
+    border-radius: var(--border-radius-sm);
+    /* Even smaller border-radius */
+  }
+}
