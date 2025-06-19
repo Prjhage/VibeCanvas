@@ -1,9 +1,9 @@
-##🎨 VibeCanvas 🧠  
+## 🎨 VibeCanvas 🧠  
 
 
 An immersive, mood-based experience web app that dynamically generates quotes, background art, music, and emoji bubbles — all based on your current **mood**. Whether you're feeling 😃 Happy, 😢 Sad, 😴 Tired, or 💪 Motivated — VibeCanvas has something for you!
 
-##🎵 Features  
+## 🎵 Features  
 
 
 💬 Mood-Based Quote Generator  
@@ -19,7 +19,7 @@ An immersive, mood-based experience web app that dynamically generates quotes, b
 📱 100% Responsive Design  
 
 
-##🧠 Tech Stack  
+## 🧠 Tech Stack  
 
 
 ⚛️ React  
@@ -33,7 +33,7 @@ An immersive, mood-based experience web app that dynamically generates quotes, b
 🖼️ Canvas API  
  
 
-##📁 Project Structure  
+## 📁 Project Structure  
 
 ```
 VibeCanvas
@@ -49,38 +49,38 @@ VibeCanvas
 └── README.md
 ```
 
-##🛠️ How to Use
+## 🛠️ How to Use
 
 
-#🧲 Clone the repo:
+🧲 Clone the repo:
 
 ```git clone https://github.com/your-username/VibeCanvas.git```
 
 
 
-#📁 Open the folder:
+📁 Open the folder:
 
 ```cd VibeCanvas```
 
 
-#📦 Install dependencies:
+📦 Install dependencies:
 
 ```npm install```
 
 
-#🚀 Start the development server:
+🚀 Start the development server:
 
 ```npm run dev```
 
 
-#🌐 Explore the app:
+🌐 Explore the app:
 
 Open your browser and go to:
 
 ```http://localhost:5173```
 
 
-##🚀 Want to Contribute?
+## 🚀 Want to Contribute?
 
 
 🧠 Add new moods
