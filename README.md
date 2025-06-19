@@ -1,3 +1,4 @@
+
 ## 🎨 VibeCanvas 🧠  
 
 
@@ -20,7 +21,7 @@ An immersive, mood-based experience web app that dynamically generates quotes, b
 
 ## ScreenShot 📸
 ![Screenshot 2025-06-19 210919](https://github.com/user-attachments/assets/26b28485-8dff-4c36-9efa-a188abafa4b8)
-
+![Screenshot 2025-06-19 211334](https://github.com/user-attachments/assets/79101ac3-6718-4f49-a3cf-b48ab532129c)
 
 
 ## 🧠 Tech Stack  
