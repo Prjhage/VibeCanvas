@@ -18,6 +18,10 @@ An immersive, mood-based experience web app that dynamically generates quotes, b
  
 📱 100% Responsive Design  
 
+## ScreenShot 📸
+![Screenshot 2025-06-19 210919](https://github.com/user-attachments/assets/26b28485-8dff-4c36-9efa-a188abafa4b8)
+
+
 
 ## 🧠 Tech Stack  
 
