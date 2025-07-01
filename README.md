@@ -59,7 +59,7 @@ VibeCanvas
 
 🧲 Clone the repo:
 
-```git clone https://github.com/your-username/VibeCanvas.git```
+```git clone https://github.com/Prjhage/VibeCanvas.git```
 
 
 
